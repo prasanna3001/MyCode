@@ -1,0 +1,4 @@
+SQL quries to analyze any DB
+
+SELECT * FROM information_schema.tables
+select * from sys.tables
